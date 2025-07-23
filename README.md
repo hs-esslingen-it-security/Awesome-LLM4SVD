@@ -155,7 +155,7 @@ This repository collects research papers covering Large Language Models for Soft
 - Evaluating the Impact of Conventional Code Analysis Against Large Language Models in API Vulnerability Detection.  **`EICC 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3655693.3655701)]
 - Large Language Model for Vulnerability Detection: Emerging Results and Future Directions.  **`ICSE-NIER 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3639476.3639762)] [[Code](https://github.com/soarsmu/ChatGPT-VulDetection)]
 - LLM-CloudSec: Large Language Model Empowered Automatic and Deep Vulnerability Analysis for Intelligent Clouds.  **`INFOCOM WKSHPS 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10620804)] [[Code](https://github.com/DPCa0/LLM-CloudSec)]
-- LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks.  **`S\&P 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10646663/)] [[Code](https://github.com/ai4cloudops/SecLLMHolmes)]
+- LLMs Cannot Reliably Identify and Reason About Security Vulnerabilities (Yet?): A Comprehensive Evaluation, Framework, and Benchmarks.  **`SP 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10646663/)] [[Code](https://github.com/ai4cloudops/SecLLMHolmes)]
 - VulD-CodeBERT: CodeBERT-Based Vulnerability Detection Model for C/C++ Code.  **`CISCE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10653337)]
 - DB-CBIL: A DistilBert-Based Transformer Hybrid Model Using CNN and BiLSTM for Software Vulnerability Detection.  **`IEEE Access 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10517582)]
 - VulnGPT: Enhancing Source Code Vulnerability Detection Using AutoGPT and Adaptive Supervision Strategies.  **`DCOSS-IoT 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10621527)]
@@ -217,7 +217,7 @@ This repository collects research papers covering Large Language Models for Soft
 - Evaluation of ChatGPT Model for Vulnerability Detection.  **`arXiv 2023`** [[Paper](https://arxiv.org/abs/2304.07232)]
 
 ### 2022
-- PATVD:Vulnerability Detection Based on Pre-training Techniques and Adversarial Training.  **`SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta 2022`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10189687/)]
+- PATVD: Vulnerability Detection Based on Pre-training Techniques and Adversarial Training.  **`SmartWorld/UIC/ScalCom/DigitalTwin/PriComp/Meta 2022`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10189687/)]
 - Exploring Transformers for Multi-Label Classification of Java Vulnerabilities.  **`QRS 2022`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10062434)] [[Code](https://github.com/TQRG/VDET-for-Java)]
 - BBVD: A BERT-based Method for Vulnerability Detection.  **`IJACSA 2022`** [[Paper](https://www.proquest.com/docview/2770373789?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals)]
 - Transformer-Based Language Models for Software Vulnerability Detection.  **`ACSAC 2022`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3564625.3567985)] [[Code](https://bitbucket.csiro.au/users/jan087/repos/acsac-2022-submission/browse)]
