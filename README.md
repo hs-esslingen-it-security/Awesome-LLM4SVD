@@ -32,6 +32,7 @@ For details, see our publication:
 - 📝 [Surveyed Papers](#papers)
 - 📝 [Selected Datasets](#datasets)
 - 🤝 [Contribute to this repository](#contribution)
+- ⚖️ [License](#license)
 
 
 ## Papers
@@ -306,3 +307,11 @@ For details, see our publication:
 ## Contribution
 
 If you want to suggest additions to the list of studies or datasets, please open a pull request or submit an issue. 
+
+
+## License
+
+- 🧠 Code & scripts (`*.py`, `*.ipynb`, etc.): Licensed under the [MIT License](LICENSE).
+- 📚 Taxonomy, markdown outputs and lists: Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Please cite our paper if you use this resource.
