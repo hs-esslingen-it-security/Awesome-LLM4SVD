@@ -1,5 +1,38 @@
-# Awesome-LLM4SVD
-This repository collects research papers covering Large Language Models for Software Vulnerability Detection. The repository will be continuously updated to track the latest papers.
+# Awesome-LLM4SVD 🌟-🧠👩‍💻🔍
+
+This repository contains the artifacts from the systematic literature review (SLR) on LLM-based software vulnerability detection ("A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models"). 
+The SLR analyzes 227 studies published between January 2020 and June 2025 and provides a structured taxonomy of detection approaches, input representations, system architectures, adaptation techniques, and dataset usage.
+
+To support reproducibility and structured comparison, we publicly release:
+- A curated list of surveyed **papers**, along with their categorization (LINK). The README will be continuously updated to track the latest papers.
+- A list of the most commonly used **datasets**, including download sources
+
+<br>
+
+For details, see our publication: 
+
+📚 S. Kaniewski, F. Schmidt, M. Enzweiler, M. Menth, und T. Heer, „A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models“, 2025.
+```bibtex
+@preprint{kaniewskiSLR-LLM4SVD2025,
+    title={{A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models}}, 
+    author={Kaniewski, Sabrina and Schmidt, Fabian and Enzweiler, Markus and Menth, Michael and Heer, Tobias},
+    year={2025},
+    eprint={tbd},
+    archivePrefix={arXiv}
+}
+```
+
+
+
+
+
+
+## Table of Contents
+
+- 📝 [Surveyed Papers](#papers)
+- 📝 [Selected Datasets](#datasets)
+- 🤝 [Contribute to this repository](#contribution)
+
 
 ## Papers
 
@@ -241,3 +274,35 @@ This repository collects research papers covering Large Language Models for Soft
 
 ### 2020
 - Exploring Software Naturalness through Neural Language Models.  **`arXiv 2020`** [[Paper](https://arxiv.org/abs/2006.12641)]
+
+
+
+
+## Datasets
+
+- SARD. [[Repo](https://samate.nist.gov/SARD)]
+- Juliet C/C++. [[Repo](https://samate.nist.gov/SARD/test-suites/112)]
+- Juliet Java. [[Repo](https://samate.nist.gov/SARD/test-suites/111)]
+- VulDeePecker.  **`NDSS`** [[Paper](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-2_Li_paper.pdf)] [[Repo](https://github.com/CGCL-codes/VulDeePecker)]
+- Draper.  **`ICMLA`** [[Paper](https://ieeexplore.ieee.org/document/8614145)] [[Repo](https://osf.io/d45bw/)]
+- Devign.  **`NeurIPS`** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/49265d2447bc3bbfe9e76306ce40a31f-Abstract.html)] [[Repo](https://github.com/epicosy/devign)]
+- Big-Vul.  **`MSR`** [[Paper](https://dl.acm.org/doi/10.1145/3379597.3387501)] [[Repo](https://github.com/ZeoVan/MSR_20_Code_vulnerability_CSV_Dataset)]
+- D2A.  **`ICSE-SEIP`** [[Paper](https://ieeexplore.ieee.org/document/9402126)] [[Repo](https://github.com/IBM/D2A)]
+- Reveal.  **`TSE`** [[Paper](https://ieeexplore.ieee.org/abstract/document/9448435)] [[Repo](https://github.com/VulDetProject/ReVeal)]
+- CVEfixes.  **`PROMISE`** [[Paper](https://dl.acm.org/doi/10.1145/3475960.3475985)] [[Repo](https://zenodo.org/records/13118970)]
+- CrossVul.  **`ESEC/FSE`** [[Paper](https://dl.acm.org/doi/10.1145/3468264.3473122)] [[Repo](https://zenodo.org/records/4734050)]
+- SecurityEval.  **`MSR4P&S`** [[Paper](https://dl.acm.org/doi/10.1145/3549035.3561184)] [[Repo](https://github.com/s2e-lab/SecurityEval)]
+- DiverseVul.  **`RAID`** [[Paper](https://dl.acm.org/doi/10.1145/3607199.3607242)] [[Repo](https://github.com/wagner-group/diversevul)]
+- SVEN.  **`CCS`** [[Paper](https://dl.acm.org/doi/10.1145/3576915.3623175)] [[Repo](https://github.com/eth-sri/sven)]
+- FormAI.  **`PROMISE`** [[Paper](https://dl.acm.org/doi/10.1145/3617555.3617874)] [[Repo](https://github.com/FormAI-Dataset/FormAI-dataset)]
+- ReposVul.  **`ICSE-Companion`** [[Paper](https://dl.acm.org/doi/10.1145/3639478.3647634)] [[Repo](https://github.com/Eshe0922/ReposVul)]
+- PrimeVul.  **`arXiv`** [[Paper](https://arxiv.org/abs/2403.18624)] [[Repo](https://github.com/DLVulDet/PrimeVul)]
+- PairVul.  **`arXiv`** [[Paper](https://arxiv.org/abs/2406.11147)] [[Repo](https://github.com/KnowledgeRAG4LLMVulD/KnowledgeRAG4LLMVulD/tree/main/dataset)]
+- MegaVul.  **`MSR`** [[Paper](https://dl.acm.org/doi/10.1145/3643991.3644886)] [[Repo](https://github.com/Icyrockton/MegaVul)]
+- CleanVul.  **`arXiv`** [[Paper](https://arxiv.org/abs/2411.17274)] [[Repo](https://github.com/yikun-li/CleanVul)]
+
+
+
+## Contribution
+
+If you want to suggest additions to the list of studies or datasets, please open a pull request or submit an issue. 
