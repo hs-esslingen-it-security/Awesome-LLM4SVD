@@ -4,7 +4,7 @@ This repository contains the artifacts from the systematic literature review (SL
 The SLR analyzes 227 studies published between January 2020 and June 2025 and provides a structured taxonomy of detection approaches, input representations, system architectures, adaptation techniques, and dataset usage.
 
 To support reproducibility and structured comparison, we publicly release:
-- A curated list of surveyed **papers**, along with their categorization (LINK). The README will be continuously updated to track the latest papers.
+- A curated list of surveyed **papers**, along with their categorization can be found [here](https://github.com/hs-esslingen-it-security/Awesome-LLM4SVD/tree/main/taxonomy). This README will be continuously updated to track the latest papers.
 - A list of the most commonly used **datasets**, including download sources
 
 <br>
@@ -17,12 +17,9 @@ For details, see our publication:
     title={{A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models}}, 
     author={Kaniewski, Sabrina and Schmidt, Fabian and Enzweiler, Markus and Menth, Michael and Heer, Tobias},
     year={2025},
-    eprint={tbd},
-    archivePrefix={arXiv}
+    note={tbd}
 }
 ```
-
-
 
 
 

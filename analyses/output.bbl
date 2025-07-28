@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{360}
+\begin{thebibliography}{359}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -1709,14 +1709,6 @@
 \showeprint[arxiv]{2303.08774}
 
 
-\bibitem[{OWASP Foundation}(2016)]%
-        {OWASPBenchmark}
-\bibfield{author}{\bibinfo{person}{{OWASP Foundation}}.} \bibinfo{year}{2016}\natexlab{}.
-\newblock \bibinfo{title}{OWASP Benchmark v1.2}.
-\newblock \bibinfo{howpublished}{https://owasp.org/www-project-benchmark/}.
-\newblock
-
-
 \bibitem[Ozturk et~al\mbox{.}(2023)]%
         {ozturkNewTricksOld2023}
 \bibfield{author}{\bibinfo{person}{Omer~Said Ozturk}, \bibinfo{person}{Emre Ekmekcioglu}, \bibinfo{person}{Orcun Cetin}, \bibinfo{person}{Budi Arief}, {and} \bibinfo{person}{Julio Hernandez-Castro}.} \bibinfo{year}{2023}\natexlab{}.
@@ -2645,7 +2637,7 @@
 \bibitem[Yang et~al\mbox{.}(2025c)]%
         {yangDLAPDeepLearning2025}
 \bibfield{author}{\bibinfo{person}{Yanjing Yang}, \bibinfo{person}{Xin Zhou}, \bibinfo{person}{Runfeng Mao}, \bibinfo{person}{Jinwei Xu}, \bibinfo{person}{Lanxin Yang}, \bibinfo{person}{Yu Zhang}, \bibinfo{person}{Haifeng Shen}, {and} \bibinfo{person}{He Zhang}.} \bibinfo{year}{2025}\natexlab{c}.
-\newblock \showarticletitle{{DLAP: A Deep Learning Augmented Large Language Model Prompting framework for software vulnerability detection}}.
+\newblock \showarticletitle{{DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection}}.
 \newblock \bibinfo{journal}{\emph{Journal of Systems and Software (JSS)}}  \bibinfo{volume}{219} (\bibinfo{year}{2025}), \bibinfo{pages}{112234}.
 \newblock
 \href{https://doi.org/10.1016/j.jss.2024.112234}{doi:\nolinkurl{10.1016/j.jss.2024.112234}}
