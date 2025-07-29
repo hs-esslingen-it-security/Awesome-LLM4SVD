@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{359}
+\begin{thebibliography}{363}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -1039,6 +1039,14 @@
 \href{https://doi.org/10.1109/AIxSET62544.2024.00026}{doi:\nolinkurl{10.1109/AIxSET62544.2024.00026}}
 
 
+\bibitem[Kaniewski et~al\mbox{.}(2025)]%
+        {replicationpackage}
+\bibfield{author}{\bibinfo{person}{Sabrina Kaniewski}, \bibinfo{person}{Fabian Schmidt}, \bibinfo{person}{Markus Enzweiler}, \bibinfo{person}{Michael Menth}, {and} \bibinfo{person}{Tobias Heer}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{{Artifacts - Awesome-LLM4SVD}}.
+\newblock \bibinfo{howpublished}{\url{ https://github.com/hs-esslingen-it-security/Awesome-LLM4SVD}}.
+\newblock
+
+
 \bibitem[Keltek et~al\mbox{.}(2024)]%
         {keltekBoostingCybersecurityVulnerability2024}
 \bibfield{author}{\bibinfo{person}{Mete Keltek}, \bibinfo{person}{Rong Hu}, \bibinfo{person}{Mohammadreza~Fani Sani}, {and} \bibinfo{person}{Ziyue Li}.} \bibinfo{year}{2024}\natexlab{}.
@@ -1532,19 +1540,43 @@
 \newblock
 
 
-\bibitem[{MITRE}(2008)]%
+\bibitem[{MITRE}(2023a)]%
         {cwe1000}
-\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2008}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2023}\natexlab{a}.
 \newblock \bibinfo{title}{{CWE-1000: Research Concepts}}.
 \newblock \bibinfo{howpublished}{\url{https://cwe.mitre.org/data/definitions/1000.html}}.
 \newblock
 
 
-\bibitem[{MITRE}(2025)]%
+\bibitem[{MITRE}(2023b)]%
+        {cwe399}
+\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2023}\natexlab{b}.
+\newblock \bibinfo{title}{{CWE CATEGORY: Resource Management Errors}}.
+\newblock \bibinfo{howpublished}{\url{https://cwe.mitre.org/data/definitions/399.html}}.
+\newblock
+
+
+\bibitem[{MITRE}(2025a)]%
         {CWECommonWeakness}
-\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2025}\natexlab{}.
+\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2025}\natexlab{a}.
 \newblock \bibinfo{title}{{CWE - Common Weakness Enumeration}}.
 \newblock \bibinfo{howpublished}{\url{https://cwe.mitre.org/}}.
+\newblock
+
+
+\bibitem[{MITRE}(2025b)]%
+        {cwe119}
+\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \bibinfo{title}{{CWE-119: Improper Restriction of Operations within the Bounds of a Memory Buffer}}.
+\newblock \bibinfo{howpublished}{\url{https://cwe.mitre.org/data/definitions/119.html}}.
+\newblock
+
+
+\bibitem[{MITRE}(2025c)]%
+        {cwe120}
+\bibfield{author}{\bibinfo{person}{{MITRE}}.} \bibinfo{year}{2025}\natexlab{c}.
+\newblock \bibinfo{title}{{CWE-120: Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')}}.
+\newblock \bibinfo{howpublished}{\url{https://cwe.mitre.org/data/definitions/120.html}}.
 \newblock
 
 
