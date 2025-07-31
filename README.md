@@ -15,15 +15,18 @@ To support open science and reproducibility, we publicly release:
 
 <br>
 
-For details, see our publication: 
+For details, see our [preprint here](https://arxiv.org/abs/2507.22659): 
 
-📚 S. Kaniewski, F. Schmidt, M. Enzweiler, M. Menth, und T. Heer, „A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models“, 2025.
+📚 S. Kaniewski, F. Schmidt, M. Enzweiler, M. Menth, und T. Heer. 2025. *A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models*. arXiv:2507.22659.
 ```bibtex
-@preprint{kaniewskiSLR-LLM4SVD2025,
+@preprint{kaniewskiLLM4SVD2025,
     title={{A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models}}, 
     author={Kaniewski, Sabrina and Schmidt, Fabian and Enzweiler, Markus and Menth, Michael and Heer, Tobias},
     year={2025},
-    note={tbd}
+    eprint={2507.22659},
+    archivePrefix={arXiv},
+    primaryClass={cs.SE},
+    url={https://arxiv.org/abs/2507.22659}, 
 }
 ```
 
