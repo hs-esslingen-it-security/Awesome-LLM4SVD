@@ -47,6 +47,13 @@ Please cite our paper if you use this resource.
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the preprint of the SLR. The latest preprint version covers all studies up to November 2025.
 
 ### 2026
+- ✨ (02/2026) Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.23834v1)]
+- ✨ (02/2026) From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
+- ✨ (02/2026) SecCodePRM: A Process Reward Model for Code Security.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.10418v1)] [[Code](https://github.com/viviable/seccodeprm)]
+- ✨ (02/2026) VulReaD: Knowledge-Graph-guided Software Vulnerability Reasoning and Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.10787v1)] [[Code](https://anonymous.4open.science/r/Vul-ReaD)]
+- ✨ (02/2026) Beyond Function-Level Analysis: Context-Aware Reasoning for Inter-Procedural Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06751v1)] [[Code](https://github.com/yikun-li/CPRVul)]
+- ✨ (02/2026) Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06687v1)]
+- ✨ (02/2026) One Model, Many Skills: Parameter-Efficient Fine-Tuning for Multitask Code Analysis.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2603.09978)] [[Code](https://github.com/Amal-AK/multitask_PEFT)]
 - ✨ (01/2026) LLMs in Code Vulnerability Analysis: A Proof of Concept.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.08691)] [[Code](https://figshare.com/s/a06ec09cd1bd98e6dd45)]
 - ✨ (01/2026) MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.18847)]
 - ✨ (01/2026) LLM-based Vulnerability Detection at Project Scale: An Empirical Study.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.19239)] [[Code](https://github.com/Feng-Jay/LLM4Security)]
@@ -61,6 +68,7 @@ Please cite our paper if you use this resource.
 - ✨ (12/2025) VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.07533)] [[Code](https://github.com/ucsb-mlsec/VulnLLM-R)]
 - ✨ (12/2025) On the Effectiveness of Instruction-Tuning Local LLMs for Identifying Software Vulnerabilities.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.20062)]
 - ✨ (12/2025) Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.12536)] [[Code](https://github.com/Erroristotle/DVDR_LLM)]
+- ✨ (11/2025) Retrieval-Augmented Few-Shot Prompting Versus Fine-Tuning for Code Vulnerability Detection.  **`FLLM 2025`** [[Paper](https://ieeexplore.ieee.org/document/11391248)]
 - ✨ (11/2025) Should We Evaluate LLM Based Security Analysis Approaches on Open Source Systems?.  **`ASE 2025`** [[Paper](https://ieeexplore.ieee.org/document/11334389/)]
 - ✨ (11/2025) LOSVER: Line-Level Modifiability Signal-Guided Vulnerability Detection and Classification.  **`ASE 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11334430)] [[Code](https://github.com/waroad/losver)] [[Code](https://figshare.com/articles/conference_contribution/Backup_code_and_checkpoints_for_Localizer_and_Detector_from_paper_b_LOSVER_Line-Level_Modifiability_Signal-Guided_Vulnerability_Detection_and_Classification_b_/29192708)]
 - ✨ (11/2025) An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems.  **`CASCON 2025`** [[Paper](https://ieeexplore.ieee.org/document/11344502)]
@@ -248,7 +256,7 @@ Please cite our paper if you use this resource.
 - (08/2024) Generalization-Enhanced Code Vulnerability Detection via Multi-Task Instruction Fine-Tuning.  **`ACL 2024`** [[Paper](https://arxiv.org/abs/2406.03718)] [[Code](https://github.com/CGCL-codes/VulLLM)]
 - (08/2024) Unintentional Security Flaws in Code: Automated Defense via Root Cause Analysis.  **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.00199)] [[Code](https://anonymous.4open.science/r/Threat_Detection_Modeling-BB7B/README.md)]
 - (08/2024) Uncovering the Limits of Machine Learning for Automatic Vulnerability Detection.  **`USENIX Security 2024`** [[Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/risse)] [[Code](https://github.com/niklasrisse/USENIX_2024)] [[Code](https://github.com/niklasrisse/VPP)]
-- (08/2024) VulSim: Leveraging Similarity of {Multi-Dimensional.  **`USENIX Security 2024`** [[Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/shimmi)] [[Code](https://github.com/SamihaShimmi/VulSim)]
+- (08/2024) : VulSim: Leveraging Similarity of Multi-Dimensional Neighbor Embeddings for Vulnerability Detection.  **`USENIX Security 2024`** [[Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/shimmi)] [[Code](https://github.com/SamihaShimmi/VulSim)]
 - (07/2024) Enhancing Software Code Vulnerability Detection Using GPT-4o and Claude-3.5 Sonnet: A Study on Prompt Engineering Techniques.  **`Electronics 2024`** [[Paper](https://www.mdpi.com/2079-9292/13/13/2657)]
 - (07/2024) MultiVD: A Transformer-based Multitask Approach for Software Vulnerability Detection.  **`SECRYPT 2024`** [[Paper](https://www.scitepress.org/Papers/2024/127194/127194.pdf)]
 - (07/2024) DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection.  **`Internetware 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3671016.3671388)] [[Code](https://github.com/GCVulnerability/DFEPT)]
