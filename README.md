@@ -47,6 +47,9 @@ Please cite our paper if you use this resource.
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the preprint of the SLR. The latest preprint version covers all studies up to November 2025.
 
 ### 2026
+- ✨ (03/2026) Evaluating Retrieval-Augmented Generation for LLM-Based Vulnerability Detection: An Empirical Study on Real-World Java Vulnerabilities.  **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11450344)]
+- ✨ (03/2026) CTX-Coder: Cross-Attention Architectures Empower LLMs for Long-Context Vulnerability Detection.  **`AAAI 2026`** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37087)] [[Code](https://github.com/wangjvjie/CTX-Coder)]
+- ✨ (02/2026) Leveraging Transformers to Discover Software Vulnerabilities based on Source Code Slices.  **`AISC 2026`** [[Paper](https://dl.acm.org/doi/10.1145/3793638.3793639)]
 - ✨ (02/2026) Enhancing Continual Learning for Software Vulnerability Prediction: Addressing Catastrophic Forgetting via Hybrid-Confidence-Aware Selective Replay for Temporal LLM Fine-Tuning.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.23834v1)]
 - ✨ (02/2026) From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - ✨ (02/2026) SecCodePRM: A Process Reward Model for Code Security.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.10418v1)] [[Code](https://github.com/viviable/seccodeprm)]
@@ -54,6 +57,7 @@ Please cite our paper if you use this resource.
 - ✨ (02/2026) Beyond Function-Level Analysis: Context-Aware Reasoning for Inter-Procedural Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06751v1)] [[Code](https://github.com/yikun-li/CPRVul)]
 - ✨ (02/2026) Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06687v1)]
 - ✨ (02/2026) One Model, Many Skills: Parameter-Efficient Fine-Tuning for Multitask Code Analysis.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2603.09978)] [[Code](https://github.com/Amal-AK/multitask_PEFT)]
+- ✨ (01/2026) RAG-Enhanced Multi-Model Ensemble for Automated Vulnerability Detection Using SLMs.  **`ICECTE 2026`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11429262)] [[Code](https://github.com/rafi79/RAG-Enhanced-Multi-Model-Ensemble-for-Automated-Vulnerability-Detection-Using-SLMs)]
 - ✨ (01/2026) LLMs in Code Vulnerability Analysis: A Proof of Concept.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.08691)] [[Code](https://figshare.com/s/a06ec09cd1bd98e6dd45)]
 - ✨ (01/2026) MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.18847)]
 - ✨ (01/2026) LLM-based Vulnerability Detection at Project Scale: An Empirical Study.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.19239)] [[Code](https://github.com/Feng-Jay/LLM4Security)]
@@ -61,6 +65,9 @@ Please cite our paper if you use this resource.
 
 
 ### 2025
+- ✨ (12/2025) ResVul-LLM: A Neurosymbolic Framework Combining Large Language Models and Symbolic Reasoning for C/C++ Vulnerability Analysis.  **`BigData 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11402220)]
+- ✨ (12/2025) CodeVul+: A Structure-Aware Framework for Cross-Repository Vulnerability Detection.  **`BigData 2025`** [[Paper](https://ieeexplore.ieee.org/document/11401065)]
+- ✨ (12/2025) Trust-Calibrated Multi-Stage Large Language Model Pipeline for Vulnerability Assessment in DevSecOps Workflows.  **`ACSAC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11417999)]
 - ✨ (12/2025) Large Language Models Cannot Reliably Detect Vulnerabilities in JavaScript: The First Systematic Benchmark and Evaluation.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.01255)] [[Code](https://github.com/SecJS-Vuln-Benchmark/SecJS-Benchmark)] [[Code](https://secjs-vuln-benchmark.github.io/SecJS-Benchmark/)]
 - ✨ (12/2025) The Impact of Prompt Language and Representation on LLM Reasoning: A Multilingual Empirical Study.  **`IEEE Access 2025`** [[Paper](https://ieeexplore.ieee.org/document/11318327)]
 - ✨ (12/2025) A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection.  **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.16538)] [[Code](https://github.com/oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv)]
