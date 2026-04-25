@@ -1,36 +1,45 @@
-# Awesome-LLM4SVD 🌟-🧠👩‍💻🔍
+<div align="center">
 
-This repository contains the artifacts from the systematic literature review (SLR) on LLM-based software vulnerability detection ("A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models"). 
-The SLR analyzes 263 studies published between January 2020 and November 2025 and provides a structured taxonomy of detection approaches, input representations, system architectures, techniques, and dataset usage.
+# Awesome-LLM4SVD 🌟🧠👩‍💻🔍
 
+**A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models**
 
-## Table of Contents
+[![arXiv](https://img.shields.io/badge/arXiv-2507.22659-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2507.22659)
 
-To support open science and reproducibility, we publicly release:
-- 📝 [Surveyed Papers](#papers): A curated list of surveyed papers. This list will be continuously updated to track the latest papers.
-- 🗂️ [Taxonomy](https://github.com/hs-esslingen-it-security/Awesome-LLM4SVD/tree/main/taxonomy): Taxonomy of LLM-based vulnerability detection studies along with the categorization of each surveyed paper.
-- 📝 [Selected Datasets](#datasets): A list of the most commonly used datasets in the surveyed studies with their download sources.
+[**Sabrina Kaniewski**](https://www.hs-esslingen.de/personen/sabrina-kaniewski)<sup>1</sup> · [**Fabian Schmidt**](https://rl.uni-freiburg.de/people/schmidt)<sup>1</sup> · [**Markus Enzweiler**](https://markus-enzweiler.de/)<sup>1</sup> · [**Michael Menth**](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/staff/michael-menth/)<sup>2</sup> · [**Tobias Heer**](https://www.hs-esslingen.de/personen/tobias-heer)<sup>1</sup>
 
+<sup>1</sup> **Esslingen University of Applied Sciences** · <sup>2</sup> **University of Tübingen**
 
+</div>
 
-<br>
+---
 
-For details, see our [preprint here](https://arxiv.org/abs/2507.22659): 
+This repository contains the artifacts from our systematic literature review (SLR) on LLM-based software vulnerability detection. The SLR analyzes **263 studies** published between January 2020 and November 2025, providing a structured taxonomy of detection approaches, input representations, system architectures, techniques, and dataset usage.
 
-📚 S. Kaniewski, F. Schmidt, M. Enzweiler, M. Menth, und T. Heer. 2025. *A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models*. arXiv:2507.22659.
+## 📢 News
+- **[04, 2026]**: The SLR has been accepted to *ACM Transactions on Software Engineering and Methodology (TOSEM)*! 
+
+## 📚 Resources & Table of Contents
+
+To support open science and reproducibility, we publicly release the following artifacts:
+
+- 📝 **[Surveyed Papers](#papers)**: A curated, continuously updated list of the surveyed papers. 
+- 🗂️ **[Taxonomy](https://github.com/hs-esslingen-it-security/Awesome-LLM4SVD/tree/main/taxonomy)**: Our comprehensive taxonomy of LLM-based vulnerability detection studies, along with the categorization of each surveyed paper.
+- 📊 **[Selected Datasets](#datasets)**: A list of the most commonly used datasets in the surveyed studies, complete with their download sources.
+
+## 📖 Citation
+
+For details on our methodology and findings, please see our preprint. If you use our taxonomy, dataset lists, or curated papers in your research, please consider citing our work:
+
 ```bibtex
-@preprint{kaniewskiLLM4SVD2025,
+@article{kaniewskiLLM4SVD2025,
     title={{A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models}}, 
     author={Kaniewski, Sabrina and Schmidt, Fabian and Enzweiler, Markus and Menth, Michael and Heer, Tobias},
     year={2025},
-    eprint={2507.22659},
-    archivePrefix={arXiv},
-    primaryClass={cs.SE},
-    url={https://arxiv.org/abs/2507.22659}, 
+    journal={arXiv preprint arXiv:2507.22659},
+    url={[https://arxiv.org/abs/2507.22659](https://arxiv.org/abs/2507.22659)}
 }
 ```
-Please cite our paper if you use this resource.
-
 <br>
 
 - 🤝 [Contribute to this repository](#contribution)
