@@ -17,7 +17,7 @@
 This repository contains the artifacts from our systematic literature review (SLR) on LLM-based software vulnerability detection. The SLR analyzes **263 studies** published between January 2020 and November 2025, providing a structured taxonomy of detection approaches, input representations, system architectures, techniques, and dataset usage.
 
 ## 📢 News
-- **[04, 2026]**: The SLR has been accepted to *ACM Transactions on Software Engineering and Methodology (TOSEM)*! 
+- **[04, 2026]**: The SLR has been accepted to *ACM Transactions on Software Engineering and Methodology (TOSEM)*! Read the manuscript here: https://doi.org/10.1145/3815425 
 
 ## 📚 Resources & Table of Contents
 
@@ -31,15 +31,16 @@ To support open science and reproducibility, we publicly release the following a
 
 ## 📖 Citation
 
-For details on our methodology and findings, please see our preprint. If you use our taxonomy, dataset lists, or curated papers in your research, please consider citing our work:
+For details on our methodology and findings, please see our [manuscript](https://doi.org/10.1145/3815425). If you find this work helpful, please consider citing:
 
 ```bibtex
-@article{kaniewskiLLM4SVD2025,
-    title={{A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models}}, 
-    author={Kaniewski, Sabrina and Schmidt, Fabian and Enzweiler, Markus and Menth, Michael and Heer, Tobias},
-    year={2025},
-    journal={arXiv preprint arXiv:2507.22659},
-    url={[https://arxiv.org/abs/2507.22659](https://arxiv.org/abs/2507.22659)}
+@article{kaniewskiLLM4SVD2026,
+    author = {Kaniewski, Sabrina and Schmidt, Fabian and Enzweiler, Markus and Menth, Michael and Heer, Tobias},
+    title = {A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models},
+    year = {2026},
+    doi = {10.1145/3815425},
+    note = {Just Accepted},
+    journal = {ACM Transactions on Software Engineering and Methodology (TOSEM)}
 }
 ```
 <br>
