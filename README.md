@@ -4,6 +4,7 @@
 
 **A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models**
 
+[![ACM TOSEM](https://img.shields.io/badge/ACM_TOSEM-10.1145%2F3815425-0085CA?style=for-the-badge&logo=acm&logoColor=white)](https://dl.acm.org/doi/10.1145/3815425)
 [![arXiv](https://img.shields.io/badge/arXiv-2507.22659-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2507.22659)
 
 [**Sabrina Kaniewski**](https://www.hs-esslingen.de/personen/sabrina-kaniewski)<sup>1</sup> · [**Fabian Schmidt**](https://rl.uni-freiburg.de/people/schmidt)<sup>1</sup> · [**Markus Enzweiler**](https://markus-enzweiler.de/)<sup>1</sup> · [**Michael Menth**](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kommunikationsnetze/staff/michael-menth/)<sup>2</sup> · [**Tobias Heer**](https://www.hs-esslingen.de/personen/tobias-heer)<sup>1</sup>
