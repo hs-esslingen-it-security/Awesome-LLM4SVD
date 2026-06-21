@@ -60,6 +60,12 @@ For details on our methodology and findings, please see our [manuscript](https:/
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the final version of the SLR. The SLR covers all studies up to November 2025.
 
 ### 2026
+- ✨ (05/2026) Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.29901v1)] [[Code](https://anonymous.4open.science/r/LLMvul- 02E6/)]
+- ✨ (05/2026) VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models.  **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
+- ✨ (05/2026) PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
+- ✨ (05/2026) Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
+- ✨ (05/2026) VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
+- ✨ (05/2026) From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
 - ✨ (04/2026) VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.26313v1)] [[Code](https://github.com/PADLab/VulStyle)]
 - ✨ (04/2026) Learning Generalizable Multimodal Representations for Software Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.25711v1)]
 - ✨ (04/2026) Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.21282v1)]

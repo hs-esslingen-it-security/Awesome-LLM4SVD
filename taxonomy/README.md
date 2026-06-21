@@ -151,6 +151,8 @@ We list papers for selected categories below.
 - Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.08417)] [[Code](https://github.com/kevinwsbr/sw-vuln)]
 - Retrieval-Augmented Semantic Mapping for Vulnerability Detection via Multi-View Code Similarity. **`Electronics 2026`** [[Paper](https://www.mdpi.com/2079-9292/15/3/612)]
 - VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.10767v1)] [[Code](https://github.com/weaver4VD/VulWeaver)]
+- VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
+- Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 
 <a name="f23-report"></a>
 ### F2.3 Report
@@ -182,6 +184,7 @@ We list papers for selected categories below.
 - Reasoning with LLMs for Zero-Shot Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2503.17885)] [[Code](https://github.com/Erroristotle/VulnSage)]
 - Trust-Calibrated Multi-Stage Large Language Model Pipeline for Vulnerability Assessment in DevSecOps Workflows. **`ACSAC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11417999)]
 - Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.21282v1)]
+- VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
 
 <a name="auxiliary-information-i2"></a>
 ## Auxiliary Information (I2)
@@ -250,6 +253,9 @@ We list papers for selected categories below.
 - Specification-Guided Vulnerability Detection with Large Language Models. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2511.04014)] [[Code](https://github.com/zhuhaopku/VulInstruct-temp)]
 - Trust-Calibrated Multi-Stage Large Language Model Pipeline for Vulnerability Assessment in DevSecOps Workflows. **`ACSAC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11417999)]
 - Retrieval-Augmented Semantic Mapping for Vulnerability Detection via Multi-View Code Similarity. **`Electronics 2026`** [[Paper](https://www.mdpi.com/2079-9292/15/3/612)]
+- VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
+- VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
+- Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 
 <a name="i22-semantic-artifacts"></a>
 ### I2.2 Semantic Artifacts
@@ -261,6 +267,8 @@ We list papers for selected categories below.
 - LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2401.16185)] [[Code](https://anonymous.4open.science/r/LLM4Vuln/README.md)]
 - Enhancing Vulnerability Detection by Fusing Code Semantic Features with LLM-generated Explanations. **`Information Fusion 2025`** [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253525005238)] [[Code](https://github.com/XUPT-SSS/FuSEVul)]
 - Streamlining Security Vulnerability Triage with Large Language Models. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2501.18908)] [[Code](https://zenodo.org/records/14776104)]
+- VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.26313v1)] [[Code](https://github.com/PADLab/VulStyle)]
+- VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
 
 <a name="i23-execution-artifacts"></a>
 ### I2.3 Execution Artifacts
@@ -399,6 +407,7 @@ We list papers for selected categories below.
 - CTX-Coder: Cross-Attention Architectures Empower LLMs for Long-Context Vulnerability Detection. **`AAAI 2026`** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/37087)] [[Code](https://github.com/wangjvjie/CTX-Coder)]
 - CodeVul+: A Structure-Aware Framework for Cross-Repository Vulnerability Detection. **`BigData 2025`** [[Paper](https://ieeexplore.ieee.org/document/11401065)]
 - SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.19031v1)] [[Code](https://github.com/BDS-SDU/SAGE)]
+- Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.29901v1)] [[Code](https://anonymous.4open.science/r/LLMvul- 02E6/)]
 
 <a name="t2-adaptation"></a>
 ### T2 Adaptation
@@ -474,6 +483,7 @@ We list papers for selected categories below.
 - Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.12536)] [[Code](https://github.com/Erroristotle/DVDR_LLM)]
 - Reasoning with LLMs for Zero-Shot Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2503.17885)] [[Code](https://github.com/Erroristotle/VulnSage)]
 - VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.10756)]
+- PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
 
 <a name="in-context"></a>
 ##### In-Context
@@ -515,6 +525,8 @@ We list papers for selected categories below.
 - Trust-Calibrated Multi-Stage Large Language Model Pipeline for Vulnerability Assessment in DevSecOps Workflows. **`ACSAC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11417999)]
 - Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.08417)] [[Code](https://github.com/kevinwsbr/sw-vuln)]
 - RLV: LLM-based Vulnerability Detection by Retrieving and Refining Contextual Information. **`Journal of Systems and Software 2026`** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122500425X)] [[Code](https://github.com/anonymous-a-b-c/RLV/)]
+- VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
+- PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
 
 <a name="few-shot"></a>
 ##### Few-Shot
@@ -583,6 +595,8 @@ We list papers for selected categories below.
 - RAG-Enhanced Multi-Model Ensemble for Automated Vulnerability Detection Using SLMs. **`ICECTE 2026`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11429262)] [[Code](https://github.com/rafi79/RAG-Enhanced-Multi-Model-Ensemble-for-Automated-Vulnerability-Detection-Using-SLMs)]
 - Evaluating Retrieval-Augmented Generation for LLM-Based Vulnerability Detection: An Empirical Study on Real-World Java Vulnerabilities. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11450344)]
 - Retrieval-Augmented Semantic Mapping for Vulnerability Detection via Multi-View Code Similarity. **`Electronics 2026`** [[Paper](https://www.mdpi.com/2079-9292/15/3/612)]
+- VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
+- VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
 
 <a name="cot"></a>
 ##### CoT
@@ -635,6 +649,8 @@ We list papers for selected categories below.
 - Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.21282v1)]
 - VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.10767v1)] [[Code](https://github.com/weaver4VD/VulWeaver)]
 - RLV: LLM-based Vulnerability Detection by Retrieving and Refining Contextual Information. **`Journal of Systems and Software 2026`** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122500425X)] [[Code](https://github.com/anonymous-a-b-c/RLV/)]
+- PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
+- Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 
 <a name="t22-training"></a>
 #### T2.2 Training
@@ -1001,6 +1017,7 @@ We list papers for selected categories below.
 - SecureMind: A Framework for Benchmarking Large Language Models in Memory Bug Detection and Repair. **`ISMM 2025`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3735950.3735954)] [[Code](https://github.com/HuantWang/SecureMind)]
 - Context-Enhanced Vulnerability Detection Based on Large Language Models. **`TOSEM 2025`** [[Paper](https://arxiv.org/abs/2504.16877)] [[Code](https://github.com/DoeSEResearch/PacVD)]
 - An Insight into Security Code Review with LLMs: Capabilities, Obstacles, and Influential Factors. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2401.16310)] [[Code](https://zenodo.org/records/15572151)]
+- VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
 
 <a name="verification"></a>
 #### Verification
@@ -1014,6 +1031,7 @@ We list papers for selected categories below.
 - M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection. **`TOSEM 2024`** [[Paper](https://arxiv.org/abs/2406.05940)] [[Code](https://github.com/HotFrom/M2CVD)]
 - Beyond ChatGPT: Enhancing Software Quality Assurance Tasks with Diverse LLMs and Validation Techniques. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.01001)] [[Code](https://figshare.com/s/5da14b0776750c6fa787)]
 - Beyond Static Pattern Matching? Rethinking Automatic Cryptographic API Misuse Detection in the Era of LLMs. **`PACMSE 2025`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3728875)]
+- VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
 
 <a name="agentic"></a>
 #### Agentic
@@ -1031,6 +1049,7 @@ We list papers for selected categories below.
 - MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.18847)]
 - Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories. **`Unknown 2025`** [[Paper](https://arxiv.org/abs/2503.03586)]
 - Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.21282v1)]
+- Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 
 <a name="ensemble"></a>
 #### Ensemble
