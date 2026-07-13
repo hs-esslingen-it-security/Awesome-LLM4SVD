@@ -60,6 +60,11 @@ For details on our methodology and findings, please see our [manuscript](https:/
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the final version of the SLR. The SLR covers all studies up to November 2025.
 
 ### 2026
+- ✨ (06/2026) Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.30587v1)] [[Code](https://anonymous.4open.science/r/cognitive-heuristics-vuln-detect-3562/README.md)]
+- ✨ (06/2026) Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.25356v1)] [[Code](https://github.com/SRestLabUB/RepBench)]
+- ✨ (06/2026) Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.20502v1)]
+- ✨ (06/2026) SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration.  **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
+- ✨ (05/2026) Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection.  **`ISCTIS 2026`** [[Paper](https://ieeexplore.ieee.org/document/11572319/)]
 - ✨ (05/2026) Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.29901v1)] [[Code](https://anonymous.4open.science/r/LLMvul- 02E6/)]
 - ✨ (05/2026) VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models.  **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
 - ✨ (05/2026) PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
