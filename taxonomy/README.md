@@ -118,13 +118,6 @@ We list papers for selected categories below.
 - LLM-based Vulnerability Detection at Project Scale: An Empirical Study. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2601.19239)] [[Code](https://github.com/Feng-Jay/LLM4Security)]
 - MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.00317)] [[Code](https://github.com/youpengl/MAVUL)]
 - From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2512.16538)] [[Code](https://github.com/oxygen-hunter/SoK-Code-Obfuscation-in-LLM-VD-arxiv)]
 - Software Vulnerability Detection with GPT and In-Context Learning. **`DSC 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10381286)]
 - VulDetectBench: Evaluating the Deep Capability of Vulnerability Detection with Large Language Models. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2406.07595)] [[Code](https://github.com/Sweetaroo/VulDetectBench)]
@@ -161,18 +154,11 @@ We list papers for selected categories below.
 - Retrieval-Augmented Semantic Mapping for Vulnerability Detection via Multi-View Code Similarity. **`Electronics 2026`** [[Paper](https://www.mdpi.com/2079-9292/15/3/612)]
 - VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.10767v1)] [[Code](https://github.com/weaver4VD/VulWeaver)]
 - VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
 - Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 - Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection. **`ISCTIS 2026`** [[Paper](https://ieeexplore.ieee.org/document/11572319/)]
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
 - Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.25356v1)] [[Code](https://github.com/SRestLabUB/RepBench)]
+- DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
 
 <a name="f23-report"></a>
 ### F2.3 Report
@@ -208,6 +194,7 @@ We list papers for selected categories below.
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
 - Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.30587v1)] [[Code](https://anonymous.4open.science/r/cognitive-heuristics-vuln-detect-3562/README.md)]
 - Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.25356v1)] [[Code](https://github.com/SRestLabUB/RepBench)]
+- Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
 
 <a name="auxiliary-information-i2"></a>
 ## Auxiliary Information (I2)
@@ -303,9 +290,6 @@ We list papers for selected categories below.
 - IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2405.17238)] [[Code](https://github.com/iris-sast/iris)]
 - Revisiting Pre-trained Language Models for Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16887)]
 - From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.16419)] [[Code](https://github.com/NoujoudNader/LLM-Bugs-Detection)]
 - Think Broad, Act Narrow: CWE Identification with Multi-Agent Large Language Models. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2508.01451)] [[Code](https://zenodo.org/records/15871507)]
 - LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2401.16185)] [[Code](https://anonymous.4open.science/r/LLM4Vuln/README.md)]
@@ -315,12 +299,10 @@ We list papers for selected categories below.
 - SSRFSeek: An LLM-based Static Analysis Framework for Detecting SSRF Vulnerabilities in PHP Applications. **`AINIT 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11035424)]
 - Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.08417)] [[Code](https://github.com/kevinwsbr/sw-vuln)]
 - RLV: LLM-based Vulnerability Detection by Retrieving and Refining Contextual Information. **`Journal of Systems and Software 2026`** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122500425X)] [[Code](https://github.com/anonymous-a-b-c/RLV/)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
 - Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.30587v1)] [[Code](https://anonymous.4open.science/r/cognitive-heuristics-vuln-detect-3562/README.md)]
+- Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
+- DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
 
 <a name="i24-tool-output"></a>
 ### I2.4 Tool Output
@@ -332,6 +314,70 @@ We list papers for selected categories below.
 - VulAgent: Hypothesis-Validation based Multi-Agent Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2509.11523)]
 - DLAP: A Deep Learning Augmented Large Language Model Prompting Framework for Software Vulnerability Detection. **`JSS 2024`** [[Paper]()] [[Code](https://github.com/Yang-Yanjing/DLAP)]
 - RAG-Enhanced Multi-Model Ensemble for Automated Vulnerability Detection Using SLMs. **`ICECTE 2026`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11429262)] [[Code](https://github.com/rafi79/RAG-Enhanced-Multi-Model-Ensemble-for-Automated-Vulnerability-Detection-Using-SLMs)]
+
+<a name="hybrid-s2"></a>
+## Hybrid (S2)
+<a name="s21-rnn"></a>
+### S2.1 RNN
+- DB-CBIL: A DistilBert-Based Transformer Hybrid Model Using CNN and BiLSTM for Software Vulnerability Detection. **`IEEE Access 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10517582)]
+- Fine-Tuning Pre-trained Model with Optimizable Prompt Learning for Code Vulnerability Detection. **`ISSRE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10771498)] [[Code](https://github.com/Exclusisve-V/PromptVulnerabilityDetection)]
+- Leveraging Self-Paced Learning for Software Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2511.09212)] [[Code](https://figshare.com/s/bef3211194fc18fe375e)]
+- Code Defect Detection Method Based on BERT and Ensemble. **`ICCC 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10507306)]
+- Automated Software Vulnerability Detection via Pre-trained Context Encoder and Self Attention. **`ICDF2C 2021`** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-06365-7_15)]
+- Making Vulnerability Prediction more Practical: Prediction, Categorization, and Localization. **`IST 2024`** [[Paper](https://www.sciencedirect.com/science/article/pii/S0950584924000636)] [[Code](https://github.com/liucyy/VulPCL)]
+- Detecting Vulnerabilities in IoT Software: New Hybrid Model and Comprehensive Data Analysis. **`JISA 2023`** [[Paper](https://www.sciencedirect.com/science/article/pii/S2214212623000510)]
+- Defect-Scanner: A Comparative Empirical Study on Language Model and Deep Learning Approach for Software Vulnerability Detection. **`IJIS 2024`** [[Paper](https://link.springer.com/article/10.1007/s10207-024-00901-4)]
+- VulD-CodeBERT: CodeBERT-Based Vulnerability Detection Model for C/C++ Code. **`CISCE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10653337)]
+- Security Vulnerability Detection Using Deep Learning Natural Language Processing. **`INFOCOM 2021`** [[Paper](https://ieeexplore.ieee.org/abstract/document/9484500)]
+
+<a name="s22-cnn"></a>
+### S2.2 CNN
+- DB-CBIL: A DistilBert-Based Transformer Hybrid Model Using CNN and BiLSTM for Software Vulnerability Detection. **`IEEE Access 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10517582)]
+- DMVL4AVD: A Deep Multi-View Learning Model for Automated Vulnerability Detection. **`Neural Comput. Appl. 2025`** [[Paper](https://link.springer.com/article/10.1007/s00521-024-10892-x)] [[Code](https://drive.google.com/file/d/1-qWqmRuBi8kRAAE2yiG6JNiY8vLYxXlz/view)]
+- VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection. **`IJCNN 2022`** [[Paper](https://ieeexplore.ieee.org/abstract/document/9892280)] [[Code](https://github.com/ICL-ml4csec/VulBERTa)]
+- Code Defect Detection Method Based on BERT and Ensemble. **`ICCC 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10507306)]
+- Detecting Vulnerabilities in IoT Software: New Hybrid Model and Comprehensive Data Analysis. **`JISA 2023`** [[Paper](https://www.sciencedirect.com/science/article/pii/S2214212623000510)]
+- Defect-Scanner: A Comparative Empirical Study on Language Model and Deep Learning Approach for Software Vulnerability Detection. **`IJIS 2024`** [[Paper](https://link.springer.com/article/10.1007/s10207-024-00901-4)]
+- DefectHunter: A Novel LLM-Driven Boosted-Conformer-based Code Vulnerability Detection Mechanism. **`arXiv 2023`** [[Paper](https://arxiv.org/abs/2309.15324)] [[Code](https://github.com/WJ-8/DefectHunter)]
+- A Software Vulnerability Detection Model Combined with Graph Simplification. **`AIBDF 2025`** [[Paper](https://dl.acm.org/doi/full/10.1145/3718491.3718525)]
+- A Vulnerability Detection Framework Based on Graph Decomposition Fusion and Augmented Abstract Syntax Tree. **`BDICN 2025`** [[Paper](https://dl.acm.org/doi/full/10.1145/3727353.3727471)]
+- Vulnerability Detection by Learning From Syntax-Based Execution Paths of Code. **`TSE 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10153647)] [[Code](https://zenodo.org/records/7123322)]
+
+<a name="s23-gnn"></a>
+### S2.3 GNN
+- Fine-Tuning Pre-trained Model with Optimizable Prompt Learning for Code Vulnerability Detection. **`ISSRE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10771498)] [[Code](https://github.com/Exclusisve-V/PromptVulnerabilityDetection)]
+- DMVL4AVD: A Deep Multi-View Learning Model for Automated Vulnerability Detection. **`Neural Comput. Appl. 2025`** [[Paper](https://link.springer.com/article/10.1007/s00521-024-10892-x)] [[Code](https://drive.google.com/file/d/1-qWqmRuBi8kRAAE2yiG6JNiY8vLYxXlz/view)]
+- Bridging Semantics \& Structure for Software Vulnerability Detection using Hybrid Network Models. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.10321)] [[Code](https://zenodo.org/records/17259519)]
+- The Richer Representation Fallacy: Are We Just Adding Noise to LLM-based Software Vulnerability Detectors?. **`ICOCO 2025`** [[Paper](https://ieeexplore.ieee.org/document/11334069)]
+- LineVD: Statement-level Vulnerability Detection using Graph Neural Networks. **`MSR 2022`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3524842.3527949)] [[Code](https://github.com/davidhin/linevd)]
+- An Unbiased Transformer Source Code Learning with Semantic Vulnerability Graph. **`EuroS&P 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10190505)] [[Code](https://github.com/pial08/SemVulDet)]
+- Unintentional Security Flaws in Code: Automated Defense via Root Cause Analysis. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.00199)] [[Code](https://anonymous.4open.science/r/Threat_Detection_Modeling-BB7B/README.md)]
+- DFEPT: Data Flow Embedding for Enhancing Pre-Trained Model Based Vulnerability Detection. **`Internetware 2024`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3671016.3671388)] [[Code](https://github.com/GCVulnerability/DFEPT)]
+- Code Defect Detection Method Based on BERT and Ensemble. **`ICCC 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10507306)]
+- A Source Code Vulnerability Detection Method Based on Positive-Unlabeled Learning. **`RICAI 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10911761)]
+- A Source Code Vulnerability Detection Method Based on Adaptive Graph Neural Networks. **`ASE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10765114)]
+- Vul-LMGNNs: Fusing Language Models and Online-distilled Graph Neural Networks for Code Vulnerability Detection. **`Information Fusion 2024`** [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005268)] [[Code](https://github.com/Vul-LMGNN/vul-LMGGNN)]
+- Multimodal Fusion for Vulnerability Detection: Integrating Sequence and Graph-Based Analysis with LLM Augmentation. **`MAPR 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11133833)]
+- Function-Level Vulnerability Detection Through Fusing Multi-Modal Knowledge. **`ASE 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10298584)] [[Code](https://github.com/jacknichao/MVulD)]
+- Code Vulnerability Detection Method Based On PreTrained Language Model and Gating Graph Neural Network. **`CBASE 2025`** [[Paper](https://ieeexplore.ieee.org/document/11335562)]
+- XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection. **`The Journal of Supercomputing 2023`** [[Paper](https://link.springer.com/article/10.1007/s11227-025-07198-7)]
+- GraphCodeBERT-Augmented Graph Attention Networks for Code Vulnerability Detection. **`CAI 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11050748)]
+- An Enhanced Vulnerability Detection in Software Using a Heterogeneous Encoding Ensemble. **`ISCC 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10217978)]
+- HgtJIT: Just-in-Time Vulnerability Detection Based on Heterogeneous Graph Transformer. **`TDSC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11072308)]
+- EFVD: A Framework of Source Code Vulnerability Detection via Fusion of Enhanced Graph Representation Learning and Pre-trained Transformer-Based Model. **`CNSSE 2025`** [[Paper](https://dl.acm.org/doi/full/10.1145/3732365.3732421)]
+- Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2406.05892)] [[Code](https://zenodo.org/records/11403208)]
+- CTVD: Collaborative Training of Deep Learning and Large Model for C/C++ Source Code Vulnerability Detection. **`SMC 2025`** [[Paper](https://ieeexplore.ieee.org/document/11343541)]
+- SVulDetector: Vulnerability Detection based on Similarity using Tree-based Attention and Weighted Graph Embedding Mechanisms. **`COSE 2024`** [[Paper](https://www.sciencedirect.com/science/article/pii/S0167404824002335)] [[Code](https://figshare.com/s/426156a96a83da1d38d0)]
+- CodeVul+: A Structure-Aware Framework for Cross-Repository Vulnerability Detection. **`BigData 2025`** [[Paper](https://ieeexplore.ieee.org/document/11401065)]
+
+<a name="s24-other"></a>
+### S2.4 Other
+- Enhancing Fine-Grained Vulnerability Detection With Reinforcement Learning. **`TSE 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11145224)] [[Code](https://github.com/YuanJiangGit/RLFD)]
+- Are Sparse Autoencoders Useful for Java Function Bug Detection?. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2505.10375)]
+- PTLVD:Program Slicing and Transformer-based Line-level Vulnerability Detection System. **`SCAM 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10356694)] [[Code](https://github.com/chenshixu/PTLVD)]
+- Defect-Scanner: A Comparative Empirical Study on Language Model and Deep Learning Approach for Software Vulnerability Detection. **`IJIS 2024`** [[Paper](https://link.springer.com/article/10.1007/s10207-024-00901-4)]
+- AIDetectVul: Software Vulnerability Detection Method Based on Feature Fusion of Pre-trained Models. **`ICCECE 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10985370)]
+- SAGE: Signal-Amplified Guided Embeddings for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.19031v1)] [[Code](https://github.com/BDS-SDU/SAGE)]
 
 <a name="technique-t"></a>
 ## Technique (T)
@@ -470,9 +516,6 @@ We list papers for selected categories below.
 - Boosting Cybersecurity Vulnerability Scanning based on LLM-supported Static Application Security Testing. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2409.15735)]
 - IRIS: LLM-Assisted Static Analysis for Detecting Security Vulnerabilities. **`ICLR 2024`** [[Paper](https://arxiv.org/abs/2405.17238)] [[Code](https://github.com/iris-sast/iris)]
 - From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - Exploration On Prompting LLM With Code-Specific Information For Vulnerability Detection. **`SSE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10664399)]
 - Software Vulnerability Detection with GPT and In-Context Learning. **`DSC 2023`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10381286)]
 - VulDetectBench: Evaluating the Deep Capability of Vulnerability Detection with Large Language Models. **`arXiv 2024`** [[Paper](https://arxiv.org/abs/2406.07595)] [[Code](https://github.com/Sweetaroo/VulDetectBench)]
@@ -500,14 +543,11 @@ We list papers for selected categories below.
 - Trust-Calibrated Multi-Stage Large Language Model Pipeline for Vulnerability Assessment in DevSecOps Workflows. **`ACSAC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11417999)]
 - Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.08417)] [[Code](https://github.com/kevinwsbr/sw-vuln)]
 - RLV: LLM-based Vulnerability Detection by Retrieving and Refining Contextual Information. **`Journal of Systems and Software 2026`** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122500425X)] [[Code](https://github.com/anonymous-a-b-c/RLV/)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
 - VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
 - PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
 - Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.30587v1)] [[Code](https://anonymous.4open.science/r/cognitive-heuristics-vuln-detect-3562/README.md)]
+- DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
 
 <a name="few-shot"></a>
 ##### Few-Shot
@@ -599,9 +639,6 @@ We list papers for selected categories below.
 - Beyond Function-Level Analysis: Context-Aware Reasoning for Inter-Procedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06751v1)] [[Code](https://github.com/yikun-li/CPRVul)]
 - MAVUL: Multi-Agent Vulnerability Detection via Contextual Reasoning and Interactive Refinement. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.00317)] [[Code](https://github.com/youpengl/MAVUL)]
 - From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - Exploration On Prompting LLM With Code-Specific Information For Vulnerability Detection. **`SSE 2024`** [[Paper](https://ieeexplore.ieee.org/abstract/document/10664399)]
 - VulnTeam: A Team Collaboration Framework for LLM-based Vulnerability Detection. **`IJCNN 2025`** [[Paper](https://ieeexplore.ieee.org/document/11229292)]
 - Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06687v1)]
@@ -636,10 +673,6 @@ We list papers for selected categories below.
 - Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.21282v1)]
 - VulWeaver: Weaving Broken Semantics for Grounded Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.10767v1)] [[Code](https://github.com/weaver4VD/VulWeaver)]
 - RLV: LLM-based Vulnerability Detection by Retrieving and Refining Contextual Information. **`Journal of Systems and Software 2026`** [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S016412122500425X)] [[Code](https://github.com/anonymous-a-b-c/RLV/)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
 - PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
 - Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 - Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection. **`ISCTIS 2026`** [[Paper](https://ieeexplore.ieee.org/document/11572319/)]
@@ -729,13 +762,6 @@ We list papers for selected categories below.
 - Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.21817)] [[Code](https://github.com/yikun-li/TitanVul-BenchVul)]
 - Revisiting Pre-trained Language Models for Vulnerability Detection. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.16887)]
 - From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - Enhancing Vulnerability Detection Efficiency: An Exploration of Light-weight LLMs with Hybrid Code Features. **`JISA 2024`** [[Paper](https://www.sciencedirect.com/science/article/pii/S2214212624002278)] [[Code](https://github.com/JNL-28/Enhancing-Vulnerability-Detection-Efficiency)]
 - Making Vulnerability Prediction more Practical: Prediction, Categorization, and Localization. **`IST 2024`** [[Paper](https://www.sciencedirect.com/science/article/pii/S0950584924000636)] [[Code](https://github.com/liucyy/VulPCL)]
 - PIONEER: Improving the Robustness of Student Models when Compressing Pre-Trained Models of Code. **`ASE 2025`** [[Paper](https://link.springer.com/article/10.1007/s10515-025-00560-2)] [[Code](https://github.com/illsui1on/PIONEER)]
@@ -814,14 +840,7 @@ We list papers for selected categories below.
 - Learning Generalizable Multimodal Representations for Software Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.25711v1)]
 - Catching Common Vulnerabilities with Code Language Models. **`SecDev 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11226499)] [[Code](https://github.com/vulsoft/commonvul/)]
 - VulStyle: A Multi-Modal Pre-Training for Code Stylometry-Augmented Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.26313v1)] [[Code](https://github.com/PADLab/VulStyle)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
+- Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
 
 <a name="instruction-tuning"></a>
 ###### Instruction-Tuning
@@ -977,6 +996,7 @@ We list papers for selected categories below.
 - Greening Large Language Models of Code. **`ICSE 2023`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3639475.3640097)] [[Code](https://github.com/soarsmu/Avatar)]
 - Distilling Lightweight Language Models for C/C++ Vulnerabilities. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2510.06645)] [[Code](https://github.com/yangxiaoxuan123/FineSec_detect)]
 - R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2504.04699)] [[Code](https://github.com/martin-wey/R2Vul)]
+- Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
 
 <a name="continual-learning"></a>
 ##### Continual Learning
@@ -990,27 +1010,13 @@ We list papers for selected categories below.
 ##### Reinforcement Learning
 - Enhancing Fine-Grained Vulnerability Detection With Reinforcement Learning. **`TSE 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11145224)] [[Code](https://github.com/YuanJiangGit/RLFD)]
 - From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v1)] [[Code](https://github.com/youpengl/OpenVul)]
 - Evaluating and Enhancing the Vulnerability Reasoning Capabilities of Large Language Models. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.06687v1)]
 - Optimizing Code Vulnerability Detection via GRPO and SFT Fine-Tuning of Compact LLMs. **`DSC 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11360339)]
 - ProRLearn: Boosting Prompt Tuning-based Vulnerability Detection by Reinforcement Learning. **`ASE 2024`** [[Paper](https://link.springer.com/article/10.1007/s10515-024-00438-9)] [[Code](https://github.com/ProRLearn/ProRLearn001)]
 - Improving LLM Reasoning for Vulnerability Detection via Group Relative Policy Optimization. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2507.03051)]
 - R2Vul: Learning to Reason about Software Vulnerabilities with Reinforcement Learning and Structured Reasoning Distillation. **`arXiv 2025`** [[Paper](https://arxiv.org/abs/2504.04699)] [[Code](https://github.com/martin-wey/R2Vul)]
 - Adversarial Training for Robustness Enhancement in LLM-Based Code Vulnerability Detection. **`CISCE 2025`** [[Paper](https://ieeexplore.ieee.org/abstract/document/11065803)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
-- From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2602.14012v2)] [[Code](https://github.com/youpengl/OpenVul)]
+- Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
 
 <a name="other-data-centric"></a>
 ##### Other Data-Centric
@@ -1077,6 +1083,8 @@ We list papers for selected categories below.
 - Strategic Heterogeneous Multi-Agent Architecture for Cost-Effective Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2604.21282v1)]
 - Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
+- Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
+- DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
 
 <a name="ensemble"></a>
 #### Ensemble

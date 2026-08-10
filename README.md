@@ -60,6 +60,8 @@ For details on our methodology and findings, please see our [manuscript](https:/
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the final version of the SLR. The SLR covers all studies up to November 2025.
 
 ### 2026
+- ✨ (07/2026) Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
+- ✨ (07/2026) DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
 - ✨ (06/2026) Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.30587v1)] [[Code](https://anonymous.4open.science/r/cognitive-heuristics-vuln-detect-3562/README.md)]
 - ✨ (06/2026) Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.25356v1)] [[Code](https://github.com/SRestLabUB/RepBench)]
 - ✨ (06/2026) Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.20502v1)]
