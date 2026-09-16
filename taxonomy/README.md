@@ -268,6 +268,7 @@ We list papers for selected categories below.
 - VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
 - Three Heads Are Better Than One: A Multi-perspective Reasoning Framework for Enhanced Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.18153v1)]
 - Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection. **`ISCTIS 2026`** [[Paper](https://ieeexplore.ieee.org/document/11572319/)]
+- CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2608.03134v1)]
 
 <a name="i22-semantic-artifacts"></a>
 ### I2.2 Semantic Artifacts
@@ -621,6 +622,7 @@ We list papers for selected categories below.
 - VulKnow: Enhancing Vulnerability Detection with Structured Knowledge and Large Language Models. **`IEEE Internet of Things Journal 2026`** [[Paper](https://ieeexplore.ieee.org/document/11535732)]
 - VulTriage: Triple-Path Context Augmentation for LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.09461v2)] [[Code](https://github.com/vinsontang1/VulTriage)]
 - Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection. **`ISCTIS 2026`** [[Paper](https://ieeexplore.ieee.org/document/11572319/)]
+- CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2608.03134v1)]
 
 <a name="cot"></a>
 ##### CoT
@@ -1085,6 +1087,7 @@ We list papers for selected categories below.
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
 - Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
 - DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
+- CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2608.03134v1)]
 
 <a name="ensemble"></a>
 #### Ensemble
