@@ -503,6 +503,7 @@ We list papers for selected categories below.
 - PromptAudit: Auditing Prompt Sensitivity in LLM-Based Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2605.24171v1)]
 - Prompting Matters: Evaluating Strategies for LLM-based Vulnerability Detection. **`ISCTIS 2026`** [[Paper](https://ieeexplore.ieee.org/document/11572319/)]
 - Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.20502v1)]
+- Towards Behavior Tree-Guided Vulnerability Detection with Lightweight LLMs. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2609.01758v1)]
 
 <a name="in-context"></a>
 ##### In-Context
@@ -549,6 +550,7 @@ We list papers for selected categories below.
 - SCOUT: LLM-Driven Vulnerability Detection via Interactive Repository Exploration. **`IEEE Access 2026`** [[Paper](https://ieeexplore.ieee.org/document/11551552/)] [[Code](https://github.com/ppccmm/scout)]
 - Words Speak Louder Than Code: Investigating Cognitive Heuristics in LLM-Based Code Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2606.30587v1)] [[Code](https://anonymous.4open.science/r/cognitive-heuristics-vuln-detect-3562/README.md)]
 - DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
+- Towards Behavior Tree-Guided Vulnerability Detection with Lightweight LLMs. **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2609.01758v1)]
 
 <a name="few-shot"></a>
 ##### Few-Shot

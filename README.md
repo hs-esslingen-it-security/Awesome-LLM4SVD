@@ -60,6 +60,7 @@ For details on our methodology and findings, please see our [manuscript](https:/
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the final version of the SLR. The SLR covers all studies up to November 2025.
 
 ### 2026
+- ✨ (09/2026) Towards Behavior Tree-Guided Vulnerability Detection with Lightweight LLMs.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2609.01758v1)]
 - ✨ (08/2026) CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2608.03134v1)]
 - ✨ (07/2026) Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
 - ✨ (07/2026) DREA: Decoupled Reasoning and Exploration Agents for Repository-Level Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.13439v1)] [[Code](https://github.com/huhusmang/DREA)]
