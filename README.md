@@ -60,6 +60,11 @@ For details on our methodology and findings, please see our [manuscript](https:/
 > **Note:** Entries marked with ✨ indicate the latest papers that are not discussed in the final version of the SLR. The SLR covers all studies up to November 2025.
 
 ### 2026
+- ✨ (10/2026) GRAML: Graph-Grounded Reasoning and Multi-Task Learning for LLM-Based Software Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2610.09605v1)]
+- ✨ (10/2026) To Think or Not to Think: Evaluating LLM Reasoning and Agents in Vulnerability Detection.  **`ASE 2026`** [[Paper](https://dl.acm.org/doi/10.1145/3832783.3837521)] [[Code](https://zenodo.org/records/21401826)]
+- ✨ (10/2026) Perception, Reasoning, and Action: A ReAct-Based Vulnerability Detection Framework with Repository-Level Reasoning.  **`ASE 2026`** [[Paper](https://dl.acm.org/doi/abs/10.1145/3832783.3837547)] [[Code](https://github.com/Xin-Cheng-Wen/ReActVul)]
+- ✨ (10/2026) Do LLM Vulnerability-Detection Agents Reason Better? An Empirical Decomposition of Robustness, Resistance, and Grounding.  **`ESEM 2026`** [[Paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESEM.2026.28)] [[Code](https://github.com/cielverse/llm-vuln-agent-reasoning-eval)]
+- ✨ (10/2026) Rethinking Mixture-of-Experts for Vulnerability Detection: An Empirical Study and Improved Design.  **`ESEM 2026`** [[Paper](https://dl.acm.org/doi/10.1145/3832223)] [[Code](https://github.com/rj7484620/RMoEVD)]
 - ✨ (09/2026) Towards Behavior Tree-Guided Vulnerability Detection with Lightweight LLMs.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2609.01758v1)]
 - ✨ (08/2026) CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2608.03134v1)]
 - ✨ (07/2026) Graph Is the Verifier: Agentic Reinforcement Learning for Interprocedural Vulnerability Detection.  **`arXiv 2026`** [[Paper](https://arxiv.org/abs/2607.26656v1)]
